@@ -5,6 +5,7 @@ Prepared by the Chief Technology Advisor for the Board meeting of 15–17 Novemb
 | File | What it is |
 | --- | --- |
 | `Rapidev_UAS_Strategic_Plan.md` | Full plan (Markdown export of the live Claude Doc): Executive Summary, Chapters 1–10, Annexes A–G (incl. phase-wise and department-wise checklist) |
+| `Rapidev_UAS_Strategic_Plan.docx` / `.pdf` | Word and PDF (A4, 51 pages) exports of the same plan, with charts |
 | `Rapidev_UAS_Phasewise_Financials.xlsx` | Workbook with live formulas: Assumptions, Summary, Phase 1/2/3 sheets (HR, Equipment, Infrastructure, Other), HR Plan, Revenue & cash, Partner scoring, Gantt, Checklist |
 | `board-deck/` | Source of the 15-minute Board deck (14 slides) |
 | `board-deck-40min/` | Source of the 40-minute full Board briefing (33 slides) |
